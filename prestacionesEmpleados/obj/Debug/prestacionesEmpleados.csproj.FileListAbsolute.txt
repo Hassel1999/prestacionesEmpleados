@@ -1,0 +1,13 @@
+C:\Users\usuario\Dropbox\PC\Desktop\Clases\Programacion en entorno de desarrollo\2do Parcial\prestacionesEmpleados\prestacionesEmpleados\bin\Debug\prestacionesEmpleados.exe.config
+C:\Users\usuario\Dropbox\PC\Desktop\Clases\Programacion en entorno de desarrollo\2do Parcial\prestacionesEmpleados\prestacionesEmpleados\bin\Debug\prestacionesEmpleados.exe
+C:\Users\usuario\Dropbox\PC\Desktop\Clases\Programacion en entorno de desarrollo\2do Parcial\prestacionesEmpleados\prestacionesEmpleados\bin\Debug\prestacionesEmpleados.pdb
+C:\Users\usuario\Dropbox\PC\Desktop\Clases\Programacion en entorno de desarrollo\2do Parcial\prestacionesEmpleados\prestacionesEmpleados\obj\Debug\prestacionesEmpleados.csproj.AssemblyReference.cache
+C:\Users\usuario\Dropbox\PC\Desktop\Clases\Programacion en entorno de desarrollo\2do Parcial\prestacionesEmpleados\prestacionesEmpleados\obj\Debug\prestacionesEmpleados.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Dropbox\PC\Desktop\Clases\Programacion en entorno de desarrollo\2do Parcial\prestacionesEmpleados\prestacionesEmpleados\obj\Debug\prestacionesEmpleados.Form1.resources
+C:\Users\usuario\Dropbox\PC\Desktop\Clases\Programacion en entorno de desarrollo\2do Parcial\prestacionesEmpleados\prestacionesEmpleados\obj\Debug\prestacionesEmpleados.frmAdmin.resources
+C:\Users\usuario\Dropbox\PC\Desktop\Clases\Programacion en entorno de desarrollo\2do Parcial\prestacionesEmpleados\prestacionesEmpleados\obj\Debug\prestacionesEmpleados.Properties.Resources.resources
+C:\Users\usuario\Dropbox\PC\Desktop\Clases\Programacion en entorno de desarrollo\2do Parcial\prestacionesEmpleados\prestacionesEmpleados\obj\Debug\prestacionesEmpleados.csproj.GenerateResource.cache
+C:\Users\usuario\Dropbox\PC\Desktop\Clases\Programacion en entorno de desarrollo\2do Parcial\prestacionesEmpleados\prestacionesEmpleados\obj\Debug\prestacionesEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Dropbox\PC\Desktop\Clases\Programacion en entorno de desarrollo\2do Parcial\prestacionesEmpleados\prestacionesEmpleados\obj\Debug\prestacionesEmpleados.exe
+C:\Users\usuario\Dropbox\PC\Desktop\Clases\Programacion en entorno de desarrollo\2do Parcial\prestacionesEmpleados\prestacionesEmpleados\obj\Debug\prestacionesEmpleados.pdb
+C:\Users\usuario\Dropbox\PC\Desktop\Clases\Programacion en entorno de desarrollo\2do Parcial\prestacionesEmpleados\prestacionesEmpleados\obj\Debug\prestacionesEmpleados.frmDocente.resources
